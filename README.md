@@ -1,12 +1,12 @@
-# NextJS Starter Skeleton
+# NextJS + Tailwind Starter Skeleton
 
-Este es el esqueleto de un proyecto [Next.js](https://nextjs.org/) iniciado con [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) y configurado con todo el stack tecnológico necesario para empezar a desarrollar cualquier proyecto.
+Este es el esqueleto de un proyecto [Next.js](https://nextjs.org/) y [Tailwind](https://tailwindcss.com/) iniciado con [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) y configurado con todo el stack tecnológico necesario para empezar a desarrollar cualquier proyecto.
 
 Cuenta con la configuración de typescript, eslint, prettier,.vscode, jest, husky, lint-staged, stylelint.
 
 ## Project structure
 
-    nextjs-starter-skeleton/
+    nextjs-tailwind-starter-skeleton/
     ├── src
     │   ├── components/
     │   │   ├─── atoms/
@@ -99,7 +99,7 @@ Cuenta con la configuración de typescript, eslint, prettier,.vscode, jest, husk
     Navigate into your new site’s directory and run.
 
     ```bash
-    cd nextjs-starter-skeleton/
+    cd nextjs-tailwind-starter-skeleton/
     npm install / npm i
     npm run dev
     ```
@@ -112,6 +112,7 @@ Cuenta con la configuración de typescript, eslint, prettier,.vscode, jest, husk
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [React JS](https://reactjs.org/)
+- [Tailwind](https://tailwindcss.com/docs/installation)
 - [Typescript](https://www.typescriptlang.org/docs/)
 - [Eslint](https://eslint.org/docs/latest/)
 - [Prettier](https://prettier.io/docs/en/index.html)
